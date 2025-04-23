@@ -1,4 +1,4 @@
-# 📝 NoteLuoto Backend — AI-Powered Note-Taking Platform (userver + C++)
+# 📝 NoteLuoto Backend — AI-Powered Note-Taking Platform (userver)
 
 This is the **backend** for **NoteLuoto**, an open-source, AI-integrated web application for working with interactive notes. Built in C++ using the high-performance [userver framework](https://userver.tech), the backend provides REST API and gRPC endpoints for managing notes, tags, attachments, checklists, and integrating with LLM-based services.
 
